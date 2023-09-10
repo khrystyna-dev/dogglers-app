@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<testsuite name="com.example.dogglers.ButtonTests" tests="3" failures="0" errors="0" skipped="0" time="5.692" timestamp="2023-09-10T14:45:59" hostname="localhost">
+  <properties>
+    <property name="device" value="Pixel_3a_API_34_extension_level_7_x86_64(AVD) - 14" />
+    <property name="flavor" value="" />
+    <property name="project" value=":app" />
+  </properties>
+  <testcase name="grid_list_button_is_displayed" classname="com.example.dogglers.ButtonTests" time="1.205" />
+  <testcase name="clicking_horizontal_list_button_displays_horizontal_list" classname="com.example.dogglers.ButtonTests" time="2.446" />
+  <testcase name="clicking_grid_list_button_displays_grid_list" classname="com.example.dogglers.ButtonTests" time="-1.694357159003E9" />
+</testsuite>
